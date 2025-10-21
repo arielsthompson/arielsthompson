@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arielsthompson
 - 👀 I’m interested in implementing data analytics and data science projects to optimize business processes and improve decision making
-- 🌱 I’m currently learning how to web scrape with Python!
-- 💞️ I’m looking to collaborate on best practices for coding projects
+- 🌱 I’m currently working on a Google Advanced Data Analytics Certification!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My AI journey has taken me from a process engineer to a data analyst to an analytics engineer
 
